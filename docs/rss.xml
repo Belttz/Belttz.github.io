@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>白垩的博客</title><link>https://becod.eu.org</link><description>道在人心，须以诚心诚意悟之，方能得其真意。</description><copyright>白垩的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic.imgdb.cn/item/67662fc9d0e0a243d4e7714b.jpg</url><title>avatar</title><link>https://becod.eu.org</link></image><lastBuildDate>Thu, 11 Sep 2025 07:07:59 +0000</lastBuildDate><managingEditor>白垩的博客</managingEditor><ttl>60</ttl><webMaster>白垩的博客</webMaster><item><title>交易方式优化</title><link>https://becod.eu.org/post/jiao-yi-fang-shi-you-hua.html</link><description>&lt;img width='1858' height='993' alt='Image' src='https://github.com/user-attachments/assets/ae95bb21-afee-4544-a372-5f09a095471f' /&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>白垩的博客</title><link>https://becod.eu.org</link><description>道在人心，须以诚心诚意悟之，方能得其真意。</description><copyright>白垩的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://pic.imgdb.cn/item/67662fc9d0e0a243d4e7714b.jpg</url><title>avatar</title><link>https://becod.eu.org</link></image><lastBuildDate>Thu, 18 Sep 2025 13:00:09 +0000</lastBuildDate><managingEditor>白垩的博客</managingEditor><ttl>60</ttl><webMaster>白垩的博客</webMaster><item><title>晒币池和持仓可以思考操作逻辑和筛币逻辑</title><link>https://becod.eu.org/post/shai-bi-chi-he-chi-cang-ke-yi-si-kao-cao-zuo-luo-ji-he-shai-bi-luo-ji.html</link><description>&lt;!-- Failed to upload '2025-09-15_23-10-51.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-18-13.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-18-06.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-16-06.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-15-53.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-15-22.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-15-08.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-14-53.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-14-34.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-14-14.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-13-53.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-13-27.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-13-14.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-13-01.png' --&gt;
+&lt;!-- Failed to upload '2025-09-18_20-12-35.png' --&gt;
+有些苛刻限价单没有成交
+其实就是非常经典的放量突破逻辑配合消息，只不过是做小周期转折拿长。</description><guid isPermaLink="true">https://becod.eu.org/post/shai-bi-chi-he-chi-cang-ke-yi-si-kao-cao-zuo-luo-ji-he-shai-bi-luo-ji.html</guid><pubDate>Thu, 18 Sep 2025 12:59:39 +0000</pubDate></item><item><title>交易方式优化</title><link>https://becod.eu.org/post/jiao-yi-fang-shi-you-hua.html</link><description>&lt;img width='1858' height='993' alt='Image' src='https://github.com/user-attachments/assets/ae95bb21-afee-4544-a372-5f09a095471f' /&gt;
 观察等待信号，分批建仓，趋势开始后建立半自动策略（用途是在趋势终端小仓位高抛低吸，省去手动交易）
 
 策略参考
